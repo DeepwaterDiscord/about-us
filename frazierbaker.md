@@ -1,4 +1,5 @@
-#Frazier Baker
+#Professional Biography for Frazier Baker
+
 ##Work
 
 Frazier Baker has had the opportunity to work at a few companies through the cooperative education program at the University of Cincinnati.  Here's a basic rundown of his work history.
@@ -21,12 +22,12 @@ Frazier worked on computational physics research with Dr. Gabriela Popa.  He dev
 
 ##Education
 
-####University of Cincinnati, *2014-2019*
+###University of Cincinnati, *2014 - 2019*
 B.S. in Computer Science, M.S. Computer Science
 ACCEND Student, Honors Student
 Will Graduate in May 2019
 
-####Ohio University Zanesville, *2012-2014*
+###Ohio University Zanesville, *2012 - 2014*
 Post Secondary Enrollment Options Program Student, Non-matriculated
 
 ##Personal
@@ -39,6 +40,10 @@ Frazier has a number of hobbies which include, but are not limited to:
 - Teaching Sunday School
 - Hiking
 
+##Project Interests
+
+Frazier Baker is interested in working on projects that involve web design and development, database design and development, cloud or distributed computing, machine learning, augmented reality, and bioinformatics.
+
 ##How To Contact
 
-I welcome side-projects, feedback on existing projects, and opportunities for collaboration.  If you would like to contact me, send an email to me@frazierbaker.com.
+I welcome side-projects, feedback on existing projects, and opportunities for collaboration.  If you would like to contact me, send an email to me@frazierbaker.com or bakerfn@mail.uc.edu.
